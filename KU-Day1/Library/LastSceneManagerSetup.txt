@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/screens/Spaceshooter.unity
+  isLoaded: 1
+  isActive: 1
